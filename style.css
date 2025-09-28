@@ -1,0 +1,19 @@
+body {
+	background-color: lightslategray;
+	color: aliceblue;
+	font-size: 18px;
+	font-family: Roboto, sans-serif;
+}
+
+button {
+	background-color: lawngreen;
+	color: red;
+	border: none;
+	font-size: 14px;
+
+}
+
+input::placeholder {
+	font-size: 14px;
+	color: red;
+}
